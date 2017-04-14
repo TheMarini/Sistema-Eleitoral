@@ -1,0 +1,112 @@
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.exe
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.pdb
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmSistema_Eleitoral.resources
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.Properties.Resources.resources
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csproj.GenerateResource.Cache
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.exe
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.pdb
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmLogin.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.Properties.Resources.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csproj.GenerateResource.Cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmLogin.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmSistema_Eleitoral.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.exe
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.pdb
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.exe
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.pdb
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\MySql.Data.dll
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csprojResolveAssemblyReference.cache
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmCandidatos.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmCargos.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmEleicoes.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmEleitores.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmLogin.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmSistema_Eleitoral.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmPartidos.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmUrnas.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.Properties.Resources.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csproj.GenerateResource.Cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\MdiClientController.dll
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmCandidatos.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmPartidos.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmEleitores.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmUrnas.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmEleicoes.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmCargos.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\Sistema Eleitoral\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\MdiClientController.dll
+T:\ENTREGAS\PCO\008 - Novas Telas de Partido e Candidato\Turma A\27757\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.exe
+T:\ENTREGAS\PCO\008 - Novas Telas de Partido e Candidato\Turma A\27757\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\MdiClientController.dll
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmUrnas.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmEleicoes.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmCargos.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmEleitores.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmCandidatos.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmLogin.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmPartidos.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmSistema_Eleitoral.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.Properties.Resources.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csproj.GenerateResource.Cache
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.exe
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.pdb
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.exe
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.pdb
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\MdiClientController.dll
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmUrnas.resources
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmEleicoes.resources
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmCargos.resources
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmEleitores.resources
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmCandidatos.resources
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmLogin.resources
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmPartidos.resources
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmSistema_Eleitoral.resources
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.Properties.Resources.resources
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csproj.GenerateResource.Cache
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.exe
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.pdb
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.exe
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.pdb
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\MdiClientController.dll
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmUrnas.resources
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmEleicoes.resources
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmCargos.resources
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmEleitores.resources
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmCandidatos.resources
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmLogin.resources
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmPartidos.resources
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmSistema_Eleitoral.resources
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csproj.GenerateResource.Cache
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmConfiguracoes.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.exe
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.pdb
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.exe
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\prjSistema_Eleitoral.pdb
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\MdiClientController.dll
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\bin\Debug\MySql.Data.dll
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csprojResolveAssemblyReference.cache
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmConfiguracoes.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmUrnas.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmEleicoes.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmCargos.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmEleitores.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmCandidatos.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmLogin.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmPartidos.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmSistema_Eleitoral.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.Properties.Resources.resources
+U:\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csproj.GenerateResource.Cache
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.frmUsuarios.resources
+C:\Users\Bruno\Google Drive\Bruno Editor\ETEC\3º Ano\Freddy\Banco de Dados\prjSistema_Eleitoral\prjSistema_Eleitoral\obj\x86\Debug\prjSistema_Eleitoral.csproj.ResolveComReference.cache
